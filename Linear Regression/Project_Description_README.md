@@ -12,7 +12,7 @@ For this project I have tried out the following models -
 
 * Linear Regression
 * Deep Fully Connected Networks (DNNs) -
-* * DNN-16
+  * DNN-16
   * DNN-30-8
   * DNN-30-16-8
   * DNN-30-16-8-4
